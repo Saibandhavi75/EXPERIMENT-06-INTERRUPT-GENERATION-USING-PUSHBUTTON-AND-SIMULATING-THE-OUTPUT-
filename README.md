@@ -330,7 +330,7 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
-![output](https://github.com/Saibandhavi75/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/blob/main/int 3.png?raw=true)
+![output](https://github.com/Saibandhavi75/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/blob/main/int%203.png)
 
 ## Result :
 Interfacing a push button and interrupt genrateion is simulated using proteus 
